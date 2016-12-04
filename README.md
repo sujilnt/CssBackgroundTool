@@ -1,6 +1,6 @@
 # CssBackgroundTool
 This is a small tool that generates background color .
-
+Here is the url of the project https://sujilnt.github.io/CssBackgroundTool/
 
 Here is the screen one 
 ![Alt text](Screen Shot 2016-12-05 at 12.30.41 AM.png "Screen1 ")
